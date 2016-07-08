@@ -675,6 +675,19 @@
         "mmState": "clean", 
         "type": "ApexPage"
     }, 
+    "apexsample.cls": {
+        "createdById": "00536000001iisdAAA", 
+        "createdByName": "Henry Akpala(hsfdc)", 
+        "createdDate": "2016-07-08 14:06:09", 
+        "fileName": "unpackaged/classes/apexsample.cls", 
+        "fullName": "apexsample", 
+        "id": "01p3600000HcSReAAN", 
+        "lastModifiedById": "00536000001iisdAAA", 
+        "lastModifiedByName": "Henry Akpala(hsfdc)", 
+        "lastModifiedDate": "2016-07-08 14:07:13", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
     "sampleGrid2.page": {
         "createdById": "00536000001iisdAAA", 
         "createdByName": "Henry Akpala(hsfdc)", 

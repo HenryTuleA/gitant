@@ -1,0 +1,40 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [
+                "public"
+            ], 
+            "name": "apexsample", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 12, 
+                "line": 4
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": "lightnsf", 
+    "name": "apexsample", 
+    "tableDeclaration": {
+        "type": "apexsample", 
+        "modifiers": [
+            "public"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 1
+        }, 
+        "name": "apexsample"
+    }, 
+    "key": "01p3600000HcSReAAN", 
+    "variables": [], 
+    "id": "01p3600000HcSReAAN", 
+    "methods": []
+}
