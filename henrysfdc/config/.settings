@@ -1,0 +1,19 @@
+{
+    "username": "henrysfdc@salesforce.com", 
+    "environment": "developer", 
+    "project_name": "henrysfdc", 
+    "workspace": "/Users/sirH/Documents/mavensmatews/gitant", 
+    "org_url": "", 
+    "namespace": "lightnsf", 
+    "id": "V1BLI382ZSHZHTUA3XWSCFVWNS6L9BA2", 
+    "metadata_container": "1dc36000000Kb1hAAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
